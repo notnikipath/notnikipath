@@ -40,15 +40,6 @@
 | ✅ [DocValidatorPro](https://github.com/notnikipath/DocValidatorPro) | Microservice platform for document verification, anomaly detection, and version comparison. |
 | 📦 [SmartStock](https://github.com/notnikipath/SmartStock) | Distributed system for inventory forecasting and optimization. |
 
-### 📊 GitHub stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notnikipath&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notnikipath&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
